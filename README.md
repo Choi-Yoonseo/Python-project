@@ -25,7 +25,9 @@
 
 numpy를 import하고 먼저 행렬을 입력받기 위한 함수를 정의하였습니다.
 
-<img width="664" alt="스크린샷 2024-06-20 오후 9 21 04" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/4462d2ee-deb1-4df0-bce6-b208dcef3131">
+<img width="671" alt="스크린샷 2024-06-20 오후 10 06 19" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/66d85812-7879-4f48-a9f5-bfceefe5dfee">
+
+
 
 <둘째> 
 
@@ -58,7 +60,8 @@ np.trace(matrix) (trace)
 <첫째>
 numpy를 import하고 matrix_operation.py파일로부터 정의된 함수들을 호출하였습니다. 또한 menu선택을 위해 menu파일로부터 import하였습니다.
 
-<img width="858" alt="스크린샷 2024-06-20 오후 9 33 43" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/6e03615b-70b4-4898-a8d0-9c47a9f24766">
+<img width="857" alt="스크린샷 2024-06-20 오후 10 07 06" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/94c95214-2b94-4151-b5bc-942260d539f8">
+
 
 <둘째>
 main함수를 정의하고 사용자가 원할 때 종료하기 위해 무한루프안에 menu기능을 정의하였습니다. 
