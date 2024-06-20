@@ -18,6 +18,7 @@
 ####
 먼저 코드수정의 효율성을 위해 main.py , matrix_opertation.py , menu.py 파일로 분리해 파일을 생성하였습니다.
 
+
 [matrix_operation.py]
 
 <첫째> 
@@ -44,11 +45,13 @@ np.trace(matrix) (trace)
 
 <img width="415" alt="스크린샷 2024-06-20 오후 9 24 36" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/577b5910-07bd-4f18-b732-77120106da76">
 
+
 [menu.py]
 
 원하는 기능 선택을 위해 정의한 함수가 담긴 파일을 형성하였습니다.
 
 <img width="482" alt="스크린샷 2024-06-20 오후 9 32 41" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/7e7774a9-fb32-4241-aa8c-1f588e96c731">
+
 
 [main.py]
 
