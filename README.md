@@ -30,6 +30,7 @@ numpy를 import하고 먼저 행렬을 입력받기 위한 함수를 정의하�
 
 
 
+
 <둘째> 
 
 eigenvalue, svd, rank, basis_transformation, trace의 기능을 위한 numpy의 하위모듈인 선형대수관련 함수를 사용하기 위해 np.linalg를 사용하였습니다.
@@ -49,11 +50,13 @@ np.trace(matrix) (trace)
 <img width="415" alt="스크린샷 2024-06-20 오후 9 24 36" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/577b5910-07bd-4f18-b732-77120106da76">
 
 
+
 [menu.py]
 
 원하는 기능 선택을 위해 정의한 함수가 담긴 파일을 형성하였습니다.
 
 <img width="482" alt="스크린샷 2024-06-20 오후 9 32 41" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/7e7774a9-fb32-4241-aa8c-1f588e96c731">
+
 
 
 [main.py]
@@ -123,7 +126,8 @@ main함수를 정의하고 사용자가 원할 때 종료하기 위해 무한루
 
 사용자가 종료를 원하면 12번을 입력하여 프로그램을 종료합니다.
 
-<img width="328" alt="스크린샷 2024-06-20 오후 9 50 46" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/2d0d223a-d3ac-4026-88f8-0f7cde20a779">
+<img width="458" alt="스크린샷 2024-06-21 오후 12 14 36" src="https://github.com/Choi-Yoonseo/Python-project/assets/163809985/1242232e-b581-4205-acb8-e75645b18baa">
+
 
 마지막 if __name__ == "__main__":
     main() 로 마무리 합니다.
